@@ -1,6 +1,5 @@
 package api.parkingTabajara.dtos;
 
-import api.parkingTabajara.models.ParkingSpotModel;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 

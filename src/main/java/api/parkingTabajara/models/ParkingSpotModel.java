@@ -143,4 +143,6 @@ public class ParkingSpotModel implements Serializable {
     public int hashCode() {
         return Objects.hash(id);
     }
+
+
 }
